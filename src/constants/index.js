@@ -413,8 +413,7 @@ and adapting to new technologies. `,
 };
 
 const publicUrls = {
-  resume:"",
-    // "https://drive.google.com/file/d/1qvFNTJSS6joxG-065UkljuPpYJgGcQXt/view?usp=sharing",
+  resume:"https://drive.google.com/file/d/1qvFNTJSS6joxG-065UkljuPpYJgGcQXt/view?usp=sharing",
   socialProfiles: {
     linkedin: {
       title: "linkedin",
